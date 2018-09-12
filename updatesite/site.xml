@@ -3,19 +3,19 @@
    <description name="GRaViTY Update Site">
       Graph based analysis and refactorings of Java programs.
    </description>
-   <feature url="features/org.gravity.features.modisco_1.0.0.201809100920.jar" id="org.gravity.features.modisco" version="1.0.0.201809100920">
+   <feature url="features/org.gravity.features.modisco_1.0.0.201809120903.jar" id="org.gravity.features.modisco" version="1.0.0.201809120903">
       <category name="org.gravity.basics"/>
    </feature>
-   <feature url="features/org.gravity.features.typegraph.basic_1.0.0.201809100920.jar" id="org.gravity.features.typegraph.basic" version="1.0.0.201809100920">
+   <feature url="features/org.gravity.features.typegraph.basic_1.0.0.201809120903.jar" id="org.gravity.features.typegraph.basic" version="1.0.0.201809120903">
       <category name="org.gravity.basics"/>
    </feature>
-   <feature url="features/org.gravity.features.hulk_1.0.0.201809100920.jar" id="org.gravity.features.hulk" version="1.0.0.201809100920">
+   <feature url="features/org.gravity.features.hulk_1.0.0.201809120903.jar" id="org.gravity.features.hulk" version="1.0.0.201809120903">
       <category name="org.gravity.hulk"/>
    </feature>
-   <feature url="features/org.gravity.features.refactorings_1.0.0.201809100920.jar" id="org.gravity.features.refactorings" version="1.0.0.201809100920">
+   <feature url="features/org.gravity.features.refactorings_1.0.0.201809120903.jar" id="org.gravity.features.refactorings" version="1.0.0.201809120903">
       <category name="org.gravity.refactorings"/>
    </feature>
-   <feature url="features/org.gravity.features.eclipse_1.0.0.201809100920.jar" id="org.gravity.features.eclipse" version="1.0.0.201809100920">
+   <feature url="features/org.gravity.features.eclipse_1.0.0.201809120903.jar" id="org.gravity.features.eclipse" version="1.0.0.201809120903">
       <category name="org.gravity.basics"/>
    </feature>
    <category-def name="org.gravity.basics" label="Parsing">
