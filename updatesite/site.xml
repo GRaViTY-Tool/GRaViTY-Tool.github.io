@@ -3,20 +3,23 @@
    <description name="GRaViTY Update Site">
       Graph based analysis and refactorings of Java programs.
    </description>
-   <feature url="features/org.gravity.features.modisco_1.0.0.201809281705.jar" id="org.gravity.features.modisco" version="1.0.0.201809281705">
+   <feature url="features/org.gravity.features.modisco_1.0.0.qualifier.jar" id="org.gravity.features.modisco" version="1.0.0.qualifier">
       <category name="org.gravity.basics"/>
    </feature>
-   <feature url="features/org.gravity.features.typegraph.basic_1.0.0.201809281705.jar" id="org.gravity.features.typegraph.basic" version="1.0.0.201809281705">
+   <feature url="features/org.gravity.features.typegraph.basic_1.0.0.qualifier.jar" id="org.gravity.features.typegraph.basic" version="1.0.0.qualifier">
       <category name="org.gravity.basics"/>
    </feature>
-   <feature url="features/org.gravity.features.hulk_1.0.0.201809281705.jar" id="org.gravity.features.hulk" version="1.0.0.201809281705">
+   <feature url="features/org.gravity.features.hulk_1.0.0.qualifier.jar" id="org.gravity.features.hulk" version="1.0.0.qualifier">
       <category name="org.gravity.hulk"/>
    </feature>
-   <feature url="features/org.gravity.features.refactorings_1.0.0.201809281705.jar" id="org.gravity.features.refactorings" version="1.0.0.201809281705">
+   <feature url="features/org.gravity.features.refactorings_1.0.0.qualifier.jar" id="org.gravity.features.refactorings" version="1.0.0.qualifier">
       <category name="org.gravity.refactorings"/>
    </feature>
-   <feature url="features/org.gravity.features.eclipse_1.0.0.201809281705.jar" id="org.gravity.features.eclipse" version="1.0.0.201809281705">
+   <feature url="features/org.gravity.features.eclipse_1.0.0.qualifier.jar" id="org.gravity.features.eclipse" version="1.0.0.qualifier">
       <category name="org.gravity.basics"/>
+   </feature>
+   <feature url="features/org.gravity.features.security_1.0.0.qualifier.jar" id="org.gravity.features.security" version="1.0.0.qualifier">
+      <category name="org.gravity.security"/>
    </feature>
    <category-def name="org.gravity.basics" label="Parsing">
       <description>
@@ -31,6 +34,11 @@
    <category-def name="org.gravity.refactorings" label="Refactorings">
       <description>
          Implementation of refactorings on the PG.
+      </description>
+   </category-def>
+   <category-def name="org.gravity.security" label="Security">
+      <description>
+         Security analysis related features
       </description>
    </category-def>
 </site>
