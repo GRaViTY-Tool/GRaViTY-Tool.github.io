@@ -1,9 +1,3 @@
 theme: jekyll-theme-minimal
 title: GRaViTY Tool
-description: The GRAViTY Tool is a research prototype for software quality, security and refactorings.
-
-The tool can be installed from the following update site:
-https://gravity-tool.org/updatesite
-
-Also visit our git repository:
-https://github.com/GRaViTY-Tool/gravity-tool
+description: The GRAViTY Tool is a research prototype for software quality, security and refactorings.\\\\The tool can be installed from the following update site:\\https://gravity-tool.org/updatesite\\\\Also visit our git repository:\\https://github.com/GRaViTY-Tool/gravity-tool
