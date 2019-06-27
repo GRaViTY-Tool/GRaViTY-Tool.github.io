@@ -16,7 +16,7 @@ All dependencies should be installed automatically.
    
 ## Development
 
-The source code is available at github: [repository](https://github.com/GRaViTY-Tool/gravity-tool)</a>
+The source code is available at github: [repository](https://github.com/GRaViTY-Tool/gravity-tool)
 
 ### Developers
  - Sven Peldszus
@@ -30,7 +30,7 @@ The source code is available at github: [repository](https://github.com/GRaViTY-
 This project is licensed under the Eclipse Public License - seet the [LICENSE](https://github.com/GRaViTY-Tool/gravity-tool/blob/master/LICENSE) file for details.
 
 ## Contact
-Sven Peldszus (speldszus@uni-koblenz.de)  
+[Sven Peldszus](sven.peldszus.com) (speldszus@uni-koblenz.de)  
 University of Koblenz-Landau  
 Universitätsstraße 1  
 56073 Koblenz  
