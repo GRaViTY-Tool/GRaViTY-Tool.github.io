@@ -1,5 +1,5 @@
-# GRaViTY-Tool
-The GRaViTY tool is a research prototype for the analysis of software design and security, evaluation and execution of refactorings and automated software optimization.
+## Publications
+The GRaViTY tool is part of various publications:
 
 - Sebastian Ruland, Géza Kulcsár, Erhan Leblebici, Sven Peldszus, Malte Lochau: Controlling the Attack Surface of Object-Oriented Refactorings. In: Proceedings of the 21st International Conference on Fundamental Approaches in Software Engineering (FASE), pp. 38-55, April 2018 - [paper - open access](http://dx.doi.org/10.1007/978-3-319-89363-1_3)
 - Sven Peldszus, Géza Kulcsár, Malte Lochau, Sandro Schulze: On Continuous Detection of Design Flaws in Evolving Object-Oriented Programs using Incremental Multi-pattern Matching. In: Proceedings of the Conference on Software Engineering (SE), Gesellschaft für Informatik, 2018 - [paper](http://dl.gi.de/20.500.12116/16314)
