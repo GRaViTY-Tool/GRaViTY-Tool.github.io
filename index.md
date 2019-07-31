@@ -1,5 +1,10 @@
-# GRaViTY-Tool
-The GRaViTY tool is a research prototype for the analysis of software design and security, evaluation and execution of refactorings and automated software optimization.
+# The GRaViTY-Tool
+Today’s software systems tend to be used on a long-term basis, are highly interconnected, share many common parts and often process security-critical data, so that keeping up with ever-changing security precautions, attacks and mitigations is vital to preserve a system’s security. Model-based system development enables us to address security issues already in the the early phases of the software design, as in UML models. The continuous changes in the security assumptions and the design of software systems —for instance, due to structural decay— have to be reflected in both the system models (e.g. UML models) and the system’s implementation (including program models). The detection which change is necessary where has currently to be performed manually by developers.
+
+Using the GRaViTY tool we are studying approaches for automatically detecting and performing necessary changes on a single representation of the system and to keep all other representations synchronized with this changed representation. Allowing developers to develop systems in a model-based manner and dealing with structural decay of long-living systems.
+
+## Publications
+The GRaViTY tool is part of various publications:
 
 - Sebastian Ruland, Géza Kulcsár, Erhan Leblebici, Sven Peldszus, Malte Lochau: Controlling the Attack Surface of Object-Oriented Refactorings. In: Proceedings of the 21st International Conference on Fundamental Approaches in Software Engineering (FASE), pp. 38-55, April 2018 - [paper - open access](http://dx.doi.org/10.1007/978-3-319-89363-1_3)
 - Sven Peldszus, Géza Kulcsár, Malte Lochau, Sandro Schulze: On Continuous Detection of Design Flaws in Evolving Object-Oriented Programs using Incremental Multi-pattern Matching. In: Proceedings of the Conference on Software Engineering (SE), Gesellschaft für Informatik, 2018 - [paper](http://dl.gi.de/20.500.12116/16314)
