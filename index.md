@@ -21,6 +21,8 @@ All dependencies should be installed automatically.
    
 ## Development
 
+[![Build Status](https://travis-ci.com/GRaViTY-Tool/gravity-tool.svg?branch=master)](https://travis-ci.com/GRaViTY-Tool/gravity-tool)
+
 The source code is available at github: [repository](https://github.com/GRaViTY-Tool/gravity-tool)
 
 ### Developers
