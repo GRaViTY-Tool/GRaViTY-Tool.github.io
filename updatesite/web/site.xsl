@@ -5,7 +5,7 @@
 <xsl:for-each select="site">
 	<html>
 	<head>
-	<title>GRaViTY Update Site</title>
+	<title>CARiSMA Update Site</title>
 	<style>@import url("web/site.css");</style>
 	</head>
 	<body>
