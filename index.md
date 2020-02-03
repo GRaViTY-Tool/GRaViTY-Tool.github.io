@@ -21,7 +21,7 @@ All dependencies should be installed automatically.
    
 ## Development
 
-[![Build Status](https://travis-ci.com/GRaViTY-Tool/gravity-tool.svg?branch=master)](https://travis-ci.com/GRaViTY-Tool/gravity-tool)
+ ![GitHub](https://img.shields.io/github/license/GRaViTY-Tool/gravity-tool)  [![Build Status](https://travis-ci.com/GRaViTY-Tool/gravity-tool.svg?branch=master)](https://travis-ci.com/GRaViTY-Tool/gravity-tool) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gravity&metric=alert_status)](https://sonarcloud.io/dashboard?id=gravity) 
 
 The source code is available at github: [repository](https://github.com/GRaViTY-Tool/gravity-tool)
 
