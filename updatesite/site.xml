@@ -6,7 +6,7 @@
    <feature url="features/org.gravity.features.modisco_1.0.0.202002031724.jar" id="org.gravity.features.modisco" version="1.0.0.202002031724">
       <category name="org.gravity.basics"/>
    </feature>
-   <feature url="features/org.gravity.features.typegraph.basic_1.0.0.202002031724.jar" id="org.gravity.features.typegraph.basic" version="1.0.0.202002031724">
+   <feature url="features/org.gravity.features.typegraph.basic_1.0.0.202002111523.jar" id="org.gravity.features.typegraph.basic" version="1.0.0.202002111523">
       <category name="org.gravity.basics"/>
    </feature>
    <feature url="features/org.gravity.features.hulk_1.0.0.202002031724.jar" id="org.gravity.features.hulk" version="1.0.0.202002031724">
