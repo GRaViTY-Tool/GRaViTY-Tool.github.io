@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.gravity.security.seclan.feature_1.0.0.qualifier.jar" id="org.gravity.security.seclan.feature" version="1.0.0.qualifier">
+   <feature url="features/org.gravity.security.seclan.feature_1.0.0.202310301832.jar" id="org.gravity.security.seclan.feature" version="1.0.0.202310301832">
       <category name="org.gravity.security.seclan"/>
    </feature>
    <category-def name="org.gravity.security.seclan" label="SeCLan"/>
