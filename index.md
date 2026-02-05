@@ -1,7 +1,7 @@
 # The GRaViTY-Tool
-Today’s software systems tend to be used on a long-term basis, are highly interconnected, share many common parts and often process security-critical data, so that keeping up with ever-changing security precautions, attacks and mitigations is vital to preserve a system’s security. Model-based system development enables us to address security issues already in the the early phases of the software design, as in UML models. The continuous changes in the security assumptions and the design of software systems —for instance, due to structural decay— have to be reflected in both the system models (e.g. UML models) and the system’s implementation (including program models). The detection which change is necessary where has currently to be performed manually by developers.
+Today’s software systems tend to be used on a long-term basis, are highly interconnected, share many common parts, and often process security-critical data, so that keeping up with ever-changing security precautions, attacks, and mitigations is vital to preserve a system’s security. Model-based system development enables us to address security issues already in the early phases of the software design, as in UML models. The continuous changes in the security assumptions and the design of software systems —for instance, due to structural decay— have to be reflected in both the system models (e.g., UML models) and the system’s implementation (including program models). The detection of which change is necessary currently needs to be performed manually by developers.
 
-Using the GRaViTY tool we are studying approaches for automatically detecting and performing necessary changes on a single representation of the system and to keep all other representations synchronized with this changed representation. Allowing developers to develop systems in a model-based manner and dealing with structural decay of long-living systems.
+Using the GRaViTY tool, we are studying approaches for automatically detecting and performing necessary changes on a single representation of the system and keeping all other representations synchronized with this changed representation. Allowing developers to develop systems in a model-based manner and dealing with the structural decay of long-living systems.
 
 ## Publications
 The GRaViTY tool is part of various publications:
@@ -22,7 +22,7 @@ All dependencies should be installed automatically.
 ## Development
 
  ![GitHub](https://img.shields.io/github/license/GRaViTY-Tool/gravity-tool)
-The source code is available at github: [repository](https://github.com/GRaViTY-Tool/gravity-tool)
+The source code is available at GitHub: [repository](https://github.com/GRaViTY-Tool/gravity-tool)
 
 ### Developers
  - Sven Peldszus
@@ -33,12 +33,11 @@ The source code is available at github: [repository](https://github.com/GRaViTY-
  See also the list of [contributors](https://github.com/GRaViTY-Tool/gravity-tool/graphs/contributors) who participated in this project.
 
 ### License
-This project is licensed under the Eclipse Public License - seet the [LICENSE](https://github.com/GRaViTY-Tool/gravity-tool/blob/master/LICENSE) file for details.
+This project is licensed under the Eclipse Public License - see the [LICENSE](https://github.com/GRaViTY-Tool/gravity-tool/blob/master/LICENSE) file for details.
 
 ## Contact
-[Sven Peldszus](sven.peldszus.com) (speldszus@uni-koblenz.de)  
-University of Koblenz-Landau  
-Universitätsstraße 1  
-56073 Koblenz  
-Germany
+[Sven Peldszus](peldszus.com) (sven.peldszus@gu.se)  
+Chalmers|University of Gothenburg
+Box 100
+412 96 Göteborg, Sweden
 
